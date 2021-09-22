@@ -11,7 +11,9 @@ using TapTap.Support;
 工单系统是厂商维度的，游戏在接入工单系统时需要绑定一个工单域名。
 
 serverUrl 为用户初始化时配置的工单域名
+
 rootCategoryID 也是用户在初始化时可选指定的，默认值为 `-`，这个参数的意义参见 https://github.com/leancloud/ticket/wiki/Ticket-in-app-page-API#baseurl
+
 callback 用于回调当前是否有未读的工单
 
 ```c#
