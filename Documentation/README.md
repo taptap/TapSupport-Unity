@@ -65,7 +65,7 @@ TapSupport.GetSupportWebUrl(string path, Dictionary<string, object> metaData,Dic
 
 `TapSupport` 在登录之后，或开始轮询获取当前是否有未读的工单，并且通过 `TapSupportCallback` 回调给开发者。
 
-当前的轮询策略为 10s 一次，如果没有未读消息则增减间隔时间为 20s ，每次递增的间隔时间为 10s，直到最大时间 300s，每次重新调用 `Resume` 方法时，会重置轮询时间。
+当前的轮询策略为 10s 一次，如果没有未读消息则增增加间隔时间为 20s ，每次增加的时间为 10s，直到最大间隔时间 300s，每次重新调用 `Resume` 方法时，会重置轮询时间。
 
 ```c#
 TapSupport.Resume();
