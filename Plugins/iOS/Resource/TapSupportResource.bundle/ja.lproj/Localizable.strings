@@ -1,0 +1,10 @@
+"support_network_error_retry" = "ネットワークエラー。再接続をお試しください";
+"support_loading" = "ロード中";
+"support_retry" = "再接続を試す";
+"support_permission_intent_title" = "ストレージへのアクセス権限";
+"support_permission_intent_reason" = "関連するファイルのパス特定のため、お客様がお使いのデバイスの本体ストレージへのアクセス権限が必要です";
+"support_permission_intent_confirm" = "許可";
+"support_permission_tip_title" = "注意";
+"support_permission_tip_reason" = "本体ストレージ上のファイルを確認できません。関連するファイルのパス特定のため、システム設定から本アプリケーションの本体ストレージへのアクセス権限を有効にしてください";
+"support_permission_tip_confirm" = "進む";
+"support_dialog_cancel" = "キャンセル";
