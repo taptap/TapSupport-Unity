@@ -1,0 +1,10 @@
+"support_network_error_retry" = "Ağ hatası. Lütfen tekrar bağlanmayı deneyin.";
+"support_loading" = "Yükleniyor";
+"support_retry" = "Tekrar bağlanılıyor…";
+"support_permission_intent_title" = "Dosya Erişimi";
+"support_permission_intent_reason" = "İlgili dosyaları elde etmek ve sorunu tespit edebilmek için cihazınızdaki dosyalara erişmemiz gerekiyor.";
+"support_permission_intent_confirm" = "İzin Ver";
+"support_permission_tip_title" = "Dikkat";
+"support_permission_tip_reason" = "Yerel dosyalara erişilemedi. İlgili dosyaları elde edebilmemiz ve sorunu tespit edebilmemiz için lütfen Ayarlar'a giderek izin verin.";
+"support_permission_tip_confirm" = "Ayarlar";
+"support_dialog_cancel" = "İptal Et";
