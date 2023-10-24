@@ -1,0 +1,10 @@
+"support_network_error_retry" = "Network error. Please try reconnecting";
+"support_loading" = "Loading";
+"support_retry" = "Reconnecting...";
+"support_permission_intent_title" = "Access to file storage";
+"support_permission_intent_reason" = "In order to obtain the relevant files for locating the problem, we need to access the files on your device.";
+"support_permission_intent_confirm" = "Allow";
+"support_permission_tip_title" = "Attention";
+"support_permission_tip_reason" = "Unable to access local files. In order to obtain the relevant files for locating the problem, please go to Settings to allow permission.";
+"support_permission_tip_confirm" = "Settings";
+"support_dialog_cancel" = "Cancel";
