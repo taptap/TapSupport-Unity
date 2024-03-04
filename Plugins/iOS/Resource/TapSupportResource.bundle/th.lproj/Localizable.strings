@@ -1,0 +1,10 @@
+"support_network_error_retry" = "สัญญาณอินเทอร์เน็ตผิดปกติ โปรดลองเชื่อมต่อใหม่อีกครั้ง";
+"support_loading" = "กำลังดาวน์โหลด";
+"support_retry" = "เชื่อมต่อใหม่";
+"support_permission_intent_title" = "สิทธิ์การจัดเก็บไฟล์ข้อมูล";
+"support_permission_intent_reason" = "เพื่อโหลดไฟล์ที่เกี่ยวข้องและอำนวยความสะดวกในการระบุสาเหตุปัญหา พวกเราจำเป็นต้องใช้สิทธิ์การจัดเก็บไฟล์ข้อมูลในอุปกรณ์ของท่าน";
+"support_permission_intent_confirm" = "อนุญาต";
+"support_permission_tip_title" = "เคล็ดลับ";
+"support_permission_tip_reason" = "ไม่สามารถโหลดไฟล์ได้ เพื่อโหลดไฟล์ที่เกี่ยวข้องและอำนวยความสะดวกในการระบุสาเหตุปัญหา กรุณาไปที่การตั้งค่าระบบเพื่อเปิดใช้งานสิทธิ์การจัดเก็บไฟล์ข้อมูล";
+"support_permission_tip_confirm" = "ไปที่";
+"support_dialog_cancel" = "ยกเลิก";
