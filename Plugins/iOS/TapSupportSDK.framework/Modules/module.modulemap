@@ -1,0 +1,6 @@
+framework module TapSupportSDK {
+  umbrella header "TapSupportSDK.h"
+
+  export *
+  module * { export * }
+}

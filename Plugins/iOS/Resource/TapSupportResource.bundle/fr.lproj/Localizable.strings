@@ -1,0 +1,10 @@
+"support_network_error_retry" = "Erreur de réseau. Essayez de vous reconnecter";
+"support_loading" = "Chargement";
+"support_retry" = "Reconnecter...";
+"support_permission_intent_title" = "Accéder au stockage de fichiers";
+"support_permission_intent_reason" = "Afin d'obtenir les fichiers pertinents pour localiser le problème, nous devons accéder aux fichiers de votre appareil.";
+"support_permission_intent_confirm" = "Permettre";
+"support_permission_tip_title" = "Prudence";
+"support_permission_tip_reason" = "Impossible d'accéder aux fichiers locaux. Afin d'obtenir les fichiers pertinents pour localiser le problème, veuillez aller dans les Paramètres pour autoriser la permission.";
+"support_permission_tip_confirm" = "Paramètres";
+"support_dialog_cancel" = "Annuler";
