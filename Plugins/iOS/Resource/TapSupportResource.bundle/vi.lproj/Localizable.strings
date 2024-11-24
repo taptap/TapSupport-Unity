@@ -1,0 +1,10 @@
+"support_network_error_retry" = "Lỗi kết nối. Vui lòng thử lại";
+"support_loading" = "Đang tải";
+"support_retry" = "Đang kết nối lại…";
+"support_permission_intent_title" = "Truy cập kho lưu trữ";
+"support_permission_intent_reason" = "Cho phép truy cập các tập tin trên thiết bị của bạn để xác định vị trí sự cố của các tập tin liên quan.";
+"support_permission_intent_confirm" = "Cho phép";
+"support_permission_tip_title" = "Chú ý";
+"support_permission_tip_reason" = "Không thể truy cập tập tin cục bộ. Vui lòng cho phép quyền trong Cài đặt để xác định vị trí sự cố của các tập tin liên quan.";
+"support_permission_tip_confirm" = "Cài đặt";
+"support_dialog_cancel" = "Hủy";
