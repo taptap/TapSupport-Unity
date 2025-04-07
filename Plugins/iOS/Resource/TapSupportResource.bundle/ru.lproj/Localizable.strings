@@ -1,0 +1,10 @@
+"support_network_error_retry" = "Ошибка в сети. Попробуйте подключиться снова";
+"support_loading" = "Загрузка";
+"support_retry" = "Повторное подключение...";
+"support_permission_intent_title" = "Доступ к хранилищу файлов";
+"support_permission_intent_reason" = "Чтобы получить соответствующие файлы для обнаружения проблемы, нам необходимо получить доступ к файлам на вашем устройстве.";
+"support_permission_intent_confirm" = "Разрешить";
+"support_permission_tip_title" = "Внимание";
+"support_permission_tip_reason" = "Не удается получить доступ к локальным файлам. Чтобы получить соответствующие файлы для поиска проблемы, пожалуйста, перейдите в настройки, чтобы разрешить доступ.";
+"support_permission_tip_confirm" = "Настройки";
+"support_dialog_cancel" = "Отмена";
