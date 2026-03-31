@@ -1,0 +1,10 @@
+"support_network_error_retry" = "Kesalahan jaringan, coba koneksi ulang";
+"support_loading" = "Sedang memuat";
+"support_retry" = "Coba koneksi ulang";
+"support_permission_intent_title" = "Izin penyimpanan berkas";
+"support_permission_intent_reason" = "Untuk mendapatkan berkas yang terkait, kami butuh mendapatkan akses izin penyimpanan berkas di perangkat anda";
+"support_permission_intent_confirm" = "Setujui";
+"support_permission_tip_title" = "Peringatan";
+"support_permission_tip_reason" = "Tidak bisa mendapatkan berkas. Untuk mendapatkan berkas yang terkait, silahkan pergi ke pengaturan perangkat dan aktifkan izin penyimpanan berkas untuk aplikasi ini";
+"support_permission_tip_confirm" = "Lanjutkan";
+"support_dialog_cancel" = "Batal";

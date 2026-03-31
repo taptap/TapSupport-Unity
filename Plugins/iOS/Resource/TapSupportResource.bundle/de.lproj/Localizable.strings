@@ -1,0 +1,10 @@
+"support_network_error_retry" = "Netzwerkfehler. Versuche bitte, die Verbindung wiederherzustellen";
+"support_loading" = "Laden";
+"support_retry" = "Wiederherstellung der Verbindung...";
+"support_permission_intent_title" = "Zugang zum Dateispeicher";
+"support_permission_intent_reason" = "Damit wir die entsprechenden Dateien zur Fehlersuche erhalten, brauchen wir Zugang zu den Daten auf deinem Gerät.";
+"support_permission_intent_confirm" = "Erlauben";
+"support_permission_tip_title" = "Achtung";
+"support_permission_tip_reason" = "Der Zugang zu lokalen Daten ist nicht gewährleistet. Um die entsprechenden Dateien zur Fehlersuche zu erhalten, musst du in den Einstellungen den Zugang genehmigen.";
+"support_permission_tip_confirm" = "Einstellungen";
+"support_dialog_cancel" = "Abbrechen";

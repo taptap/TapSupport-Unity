@@ -1,0 +1,10 @@
+"support_network_error_retry" = "网络异常，请尝试重连";
+"support_loading" = "加载中";
+"support_retry" = "尝试重连";
+"support_permission_intent_title" = "文件存储权限";
+"support_permission_intent_reason" = "为了获取相关文件便于定位问题，我们需要先获取你设备的文件存储权限";
+"support_permission_intent_confirm" = "允许";
+"support_permission_tip_title" = "提示";
+"support_permission_tip_reason" = "无法获取本地文件。为了获取相关文件便于定位问题，请前往系统设置为此应用开启文件存储权限";
+"support_permission_tip_confirm" = "前往";
+"support_dialog_cancel" = "取消";

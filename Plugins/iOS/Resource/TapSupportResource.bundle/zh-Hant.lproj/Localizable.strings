@@ -1,0 +1,10 @@
+"support_network_error_retry" = "網路異常，請嘗試重新連線";
+"support_loading" = "載入中";
+"support_retry" = "嘗試重新連線";
+"support_permission_intent_title" = "檔案儲存許可權限";
+"support_permission_intent_reason" = "為了獲取相關檔案便於定位問題，我們需要先獲取你設備的檔案儲存許可權限";
+"support_permission_intent_confirm" = "允許";
+"support_permission_tip_title" = "提示";
+"support_permission_tip_reason" = "無法獲取本地檔案。為了獲取相關檔案便於定位問題，請前往系統設定為此應用開啟檔案儲存許可權限";
+"support_permission_tip_confirm" = "前往";
+"support_dialog_cancel" = "取消";
